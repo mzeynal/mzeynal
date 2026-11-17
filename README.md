@@ -1,16 +1,17 @@
-## Hi there 👋
+# Murad Zeynal
 
-<!--
-**mzeynal/mzeynal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Getting into OSINT and open-source investigations. Learning by doing: practicing on public data, CTF-style challenges and my own research projects.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Advanced Google dorking and search techniques
+- Link analysis: pivoting through weak connections between people, companies and accounts
+- Writing up findings clearly, with sources
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+Azerbaijani · Turkish · Russian · English
+
+## What you'll find here
+Notes, methodology write-ups and small tools. Everything is built on public data and public challenges.
+
+## Contact
+muradz68y@gmail.com
