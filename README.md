@@ -1,17 +1,18 @@
 # Murad Zeynal
 
-Getting into OSINT and open-source investigations. Learning by doing: practicing on public data, CTF-style challenges and my own research projects.
+Getting into corporate intelligence and due diligence. I use open-source research (OSINT) as a method for KYC, EDD and counterparty checks, and I learn by doing on public data.
 
 ## What I'm working on
-- Advanced Google dorking and search techniques
-- Link analysis: pivoting through weak connections between people, companies and accounts
-- Writing up findings clearly, with sources
+- KYC and enhanced due diligence (EDD)
+- Corporate intelligence: company structures, ownership, counterparty background checks
+- Open-source research methods: advanced search, link analysis
+- Clear, sourced reporting
 
 ## Languages
 Azerbaijani · Turkish · Russian · English
 
 ## What you'll find here
-Notes, methodology write-ups and small tools. Everything is built on public data and public challenges.
+Notes, methodology write-ups, checklists and small tools. Everything is built on public data.
 
 ## Contact
 muradz68y@gmail.com
